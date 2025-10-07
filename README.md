@@ -3,13 +3,12 @@
 # Videos Estimaciones de Costos y Tiempos + Presupuesto
 Este repositorio contiene las plantillas correspondientes a los siguientes videos:
 
-- ¿Cómo estimar tiempos en desarrollo de software? ⏳💸: [Ver aquí](https://youtu.be/nrTedUJMuhI?si=DvHlXQ3W-i4Uqcxv)
-- ¿Cómo estimar COSTOS?: [Ver aquí]()
+- ¿Cómo estimar tiempos en desarrollo de software? ⏳💸 [Ver aquí](https://youtu.be/nrTedUJMuhI?si=DvHlXQ3W-i4Uqcxv)
+- ¿Cómo estimar COSTOS? [Ver aquí]()
 
-## ¿Cómo usar este repositorio?
+## ¿Cómo utilizar las plantillas?
 
-Cada carpeta en contiene un ejercicio diferente. Se recomienda que sigas el orden de los ejercicios en base a lo que veas en el video explicativo del curso, ya que los mismos están diseñados para aumentar en dificultad progresivamente. 
-Se sugiere intentar resolver los ejercicios por tu cuenta antes de revisar las soluciones que aquí se presentan para seguir ejercitando tu lógica de programación.
+Para comprender el funcionamiento de cada plantilla se recomienda visualizar los ejemplos prácticos citados en los videos anteriormente mencionados en este texto. En cada uno de ellos se detalla en forma didáctica, con ejemplos similares a la realidad, de qué manera implementarlas, utilizarlas y/o adaptarlas.
 
 ## Contribuciones
 
